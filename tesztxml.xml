@@ -14,20 +14,6 @@ https://if9.ingatlanforras.hu/XML/Hirdetoportalok/IngatlanTerkep/IF9_Export_6868
 </XMLFile>
 </Iroda>
 <Iroda>
-<IrodaId>1872</IrodaId>
-<IrodaNev>Ady5 Ingatlanpont</IrodaNev>
-<IrodaCim>5000 Szolnok, Ady Endre út 5. fszt.</IrodaCim>
-<Email>hirdeto.szolnok@gmail.com</Email>
-<Telefon>+36 20 582-6025</Telefon>
-<Weboldal>ady5szolnokingatlan.hu</Weboldal>
-<KulsoAzonosito/>
-<Logo>https://if9.ingatlanforras.hu/IrodaLogok/1872.png</Logo>
-<InditasDatuma>2025-09-30 12:57:43</InditasDatuma>
-<XMLFile>
-https://if9.ingatlanforras.hu/XML/Hirdetoportalok/IngatlanTerkep/IF9_Export_1872.xml
-</XMLFile>
-</Iroda>
-<Iroda>
 <IrodaId>1803</IrodaId>
 <IrodaNev>Partner Ingatlan</IrodaNev>
 <IrodaCim></IrodaCim>
