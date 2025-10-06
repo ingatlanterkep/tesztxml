@@ -1,0 +1,1 @@
+http://hazbank.hu/export/output/ingatlan-terkep.hu/artshome.xml
