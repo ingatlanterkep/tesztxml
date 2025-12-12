@@ -10,21 +10,7 @@
 <Logo>https://if9.ingatlanforras.hu/IrodaLogok/6868.png</Logo>
 <InditasDatuma>2025-04-14 11:20:34</InditasDatuma>
 <XMLFile>
-https://if9.ingatlanforras.hu/XML/Hirdetoportalok/IngatlanTerkep/IF9_Export_6868.xml
-</XMLFile>
-</Iroda>
-<Iroda>
-<IrodaId>1803</IrodaId>
-<IrodaNev>Partner Ingatlan</IrodaNev>
-<IrodaCim></IrodaCim>
-<Email>k.tivadar68@gmail.com</Email>
-<Telefon>+36 30 936-7066</Telefon>
-<Weboldal/>
-<KulsoAzonosito/>
-<Logo>https://if9.ingatlanforras.hu/IrodaLogok/1803.png</Logo>
-<InditasDatuma>2025-10-04 17:32:27</InditasDatuma>
-<XMLFile>
-https://if9.ingatlanforras.hu/XML/Hirdetoportalok/IngatlanTerkep/IF9_Export_1803.xml
+https://raw.githubusercontent.com/ingatlanterkep/tesztxml/main/kamuirodaxml.xml
 </XMLFile>
 </Iroda>
 </Irodak>
