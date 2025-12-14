@@ -1,1 +1,1 @@
-http://hazbank.hu/export/output/ingatlan-terkep.hu/artshome.xml
+https://raw.githubusercontent.com/ingatlanterkep/tesztxml/main/kamuhazbankxml.xml
