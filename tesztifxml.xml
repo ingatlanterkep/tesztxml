@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <Export>
+  <Iroda>
+   <IrodaId>3</IrodaId>
+   <IrodaNev><![CDATA[Demo ingatlaniroda]]></IrodaNev>
+   <IrodaCim><![CDATA[1158 Budapest, Késmárk u. 7/b.]]></IrodaCim>
+   <Email>info@ingatlanforras.hu</Email>
+   <Telefon>+36 1 414-0667</Telefon>
+   <Weboldal>demo.ingatlanforras.hu</Weboldal>
+   <KulsoAzonosito>12345</KulsoAzonosito>
+   <Logo>https://if9.ingatlanforras.hu/IrodaLogok/3.png</Logo>
+  </Iroda>
+  <Ingatlanok>
+   <Ingatlan>
+    <IngatlanId>300973</IngatlanId>
+    <ModositasDatum>2015-09-14 14:06:42</ModositasDatum>
+    <Ertekesito>
+     <ErtekesitoId>1463</ErtekesitoId>
+     <Nev>Demo referens</Nev>
+     <Email>demo</Email>
+     <Telefon>+36 30 123-4567</Telefon>
+     <Bemutatkozas></Bemutatkozas>
+     <Foto>https://if9.ingatlanforras.hu/ReferensKepek/434.jpg</Foto>
+    </Ertekesito>
+    <Jelleg>Eladó</Jelleg>
+    <Tipus>Családi ház</Tipus>
+    <Orszag>Magyarország</Orszag>
+    <Iranyitoszam>2111</Iranyitoszam>
+    <Telepules>Szada</Telepules>
+    <KulfoldiTelepules></KulfoldiTelepules>
+    <Terulet>Szőlőhegy</Terulet>
+    <Utca></Utca>
+    <Iranyar>42000000</Iranyar>
+    <IranyarEredeti>105000</IranyarEredeti>
+    <Penznem>EUR</Penznem>
+    <Alapterulet>260</Alapterulet>
+    <Telekmeret>5302</Telekmeret>
+    <SzobakSzama>0</SzobakSzama>
+    <FelSzobakSzama>0</FelSzobakSzama>
+    <EpitesiMod>Tégla</EpitesiMod>
+    <EpitesiEv>2000</EpitesiEv>
+    <FelujitasiEv></FelujitasiEv>
+    <BelsoAllapot>Kiváló</BelsoAllapot>
+    <KulsoAllapot>Kiváló</KulsoAllapot>
+    <Futes>Cirkó</Futes>
+    <MasodlagosFutes>Vegyes tüzelés</MasodlagosFutes>
+    <Klima>Saját split klíma</Klima>
+    <KomfortFokozat>Komfort</KomfortFokozat>
+    <Kilatas>Panorámás</Kilatas>
+    <Tajolas>Kelet</Tajolas>
+    <Parkolas>Garázsban</Parkolas>
+    <Akadalymentesites></Akadalymentesites>
+    <EnergetikaiTanusitvany></EnergetikaiTanusitvany>
+    <Butorozottsag></Butorozottsag>
+    <Emelet>1</Emelet>
+    <SzintekSzama>2</SzintekSzama>
+    <KozosKoltseg>0</KozosKoltseg>
+    <Rezsi>0</Rezsi>
+    <HirdetesCim><![CDATA[Csodálatos családi ház Szadán eladó!]]></HirdetesCim>
+    <HirdetesSzovege><![CDATA[Szadán, Szőlőhegyen 5303nm-es megosztható
+     telken 260nm-es 50%-os készültségű, igényes tervezésű összközműves ház. Fa 
+     nyilászárók, belső falak állnak, lépcső kész, kandalló lehetőség. Az ingatlan 
+     az erdő mellett van. A kertben termő gyümölcsfák (barack, mandula). Nagyon csendes,
+     szép helyen. Tájolás K-Ny, a cirkó mellett vegyes tűzelés is.​]]></HirdetesSzovege>
+    <Villany>230 - 400 Volt</Villany>
+    <Viz>Van</Viz>
+    <Gaz>Vezetékes gáz</Gaz>
+    <Csatorna>Közműhálózatba bekötve</Csatorna>
+    <Internet>Szélessávú (>10Mbps)</Internet>
+    <FurdoTipus>Külön és egyben is</FurdoTipus>
+    <PinceTipus>Részben alápincézett</PinceTipus>
+    <TetoterTipus>Nem beépíthető</TetoterTipus>
+    <FurdokSzama>1</FurdokSzama>
+    <WCkSzama>2</WCkSzama>
+    <CSOKIgenyelheto>1</CSOKIgenyelheto>
+    <TelekBeepithetoseg>30</TelekBeepithetoseg>
+    <Webseta>https://minden3d.com/panoramak/forster/tour.html</Webseta>
+    <YoutubeVideo>https://www.youtube.com/watch?v=mrpiPK8_up0</YoutubeVideo>
+    <Helyisegek>
+      <Helyiseg>
+       <HelyisegTipus>Szoba</HelyisegTipus>
+       <HelyisegMeret>23</HelyisegMeret>
+       <HelyisegBelmagassag>2,6</HelyisegBelmagassag>
+       <HelyisegEmelet>Földszint</HelyisegEmelet>
+       <HelyisegPadlo>Parketta</HelyisegPadlo>
+       <HelyisegFal>Tapéta</HelyisegFal>
+      </Helyiseg>
+     </Helyisegek>
+     <Kepek>
+     <Kep>
+      <KepId>609653</KepId>
+      <Url><![CDATA[http://if9.ingatlanforras.hu/IngatlanKepek/3/300973/609653.jpg]]></Url>
+      <Sorrend>1</Sorrend>
+      <Alaprajz>0</Alaprajz>
+     </Kep>
+    </Kepek>
+   </Ingatlan>
+  </Ingatlanok>
+ </Export>
